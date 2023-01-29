@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156266998725",
+    "firebase_url": "https://kissangenix-557da-default-rtdb.firebaseio.com",
+    "project_id": "kissangenix-557da",
+    "storage_bucket": "kissangenix-557da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156266998725:android:b7807e8aca28282b7079ac",
+        "android_client_info": {
+          "package_name": "com.example.kissangenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156266998725-e5q7qu92ip6q4iv9smen3qtuv3o6kk2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmCCHeVl7yGy4lpqiPfbLrmPMxBJV7exM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156266998725-e5q7qu92ip6q4iv9smen3qtuv3o6kk2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kissangenix</string>
+    <string name="hint">hint</string>
+    <string name="kisaan_genix">KISAAN GENIX</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string-array name="topics">
+        <item>select topic</item>
+        <item>LAND</item>
+        <item>MACHINARIES</item>
+        <item>CROP SUGGESTER</item>
+        <item>CROP DOCTOR</item>
+        <item>OTHER</item>
+    </string-array>
+</resources>
